@@ -1,0 +1,7 @@
+.buy-now-button{
+    background-image: linear-gradient(to bottom, #171717 0%, #000000 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 25px;
+}
