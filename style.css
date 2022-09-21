@@ -29,3 +29,6 @@
     border-top: none;
     text-align: center;
 }
+.container p{
+    color: gray;
+}
