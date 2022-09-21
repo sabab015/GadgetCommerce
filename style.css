@@ -32,3 +32,11 @@
 .container p{
     color: gray;
 }
+.hr{
+    width: 80px;
+    border: 4px solid goldenrod; 
+    border-radius: 5px; 
+}
+.categories img {
+    width: 100%;
+}
